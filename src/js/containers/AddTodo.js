@@ -31,6 +31,6 @@ let AddTodo = ({ dispatch }) => {
 }
 
 
-AddTodo = connectc()(AddTodo)
+AddTodo = connect()(AddTodo)
 
 export default AddTodo

@@ -11,4 +11,4 @@ const App = () => (
     </div>
 )
 
-import default App
+export default App
